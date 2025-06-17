@@ -1,6 +1,7 @@
 # UE5_DefaultTemplate
 Creator -> ToD8y https://github.com/ToD8y
 Contact me via Discord: tod8y
+If u want to say thanks, just credit this repo!
 
 My UE5.5.4 Template made for quick start making games.
 Feel free to use it!
