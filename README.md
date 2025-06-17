@@ -10,6 +10,6 @@ Usefull information below
 -> Using Fmod on v.2.03.06 | fmod studio project already inside 
 
 -> Under Content/Core/FunctionLibrary are functions that can be used everywhere in the project.
-    Theese will speed up your coding a lot.
+Theese will speed up your coding a lot.
 
 -> coming soon...
