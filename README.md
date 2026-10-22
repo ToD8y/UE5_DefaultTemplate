@@ -15,6 +15,4 @@ Usefull information below
 -> Under Content/Core/FunctionLibrary are functions that can be used everywhere in the project.
 Theese will speed up your coding a lot.
 
--> This template don't uses "CommonUI" - Plugin
-
 -> coming soon...
